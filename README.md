@@ -49,6 +49,16 @@ Dataset size:
 - 373 auction lots
 - 330 lots with active bidding data
 
+## Visualizations
+
+### Estimate Distribution
+
+![Estimate Distribution](estimate_distribution.png)
+
+### Bid Activity vs Estimated Value
+
+![Bid vs Estimate](bid_vs_estimate.png)
+
 ## Tools
 
 - Python
@@ -69,17 +79,6 @@ sothebys-auction-analysis/
 ├── requirements.txt
 └── README.md
 ```
-
-## Visualizations
-
-### Estimate Distribution
-
-![Estimate Distribution](estimate_distribution.png)
-
-### Bid Activity vs Estimated Value
-
-![Bid vs Estimate](bid_vs_estimate.png)
-
 
 ## Future Improvements
 

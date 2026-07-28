@@ -49,6 +49,17 @@ Dataset size:
 - 373 auction lots
 - 330 lots with active bidding data
 
+## Key Findings
+
+Analysis of 373 Sotheby's Contemporary Discoveries auction lots revealed:
+
+- The average estimated value per lot was approximately $18.5K, with estimates ranging from $600 to $250K.
+- A small number of high-value works drove a large portion of the auction's estimated value.
+- Bidding activity varied significantly, with active lots receiving up to 56 bids.
+- Several works showed strong demand, with current bids exceeding estimated values by multiple times.
+- Artist-level analysis identified artists with both high representation and higher average estimated values.
+- Bid-to-estimate ratios helped identify lots generating above-average market interest.
+
 ## Visualizations
 
 ### Estimate Distribution

@@ -169,6 +169,8 @@ plt.title(
     "Distribution of Sotheby's Contemporary Discoveries Estimates"
 )
 
+plt.savefig("estimate_distribution.png", bbox_inches="tight")
+
 plt.show()
 
 
@@ -246,6 +248,8 @@ plt.ylabel("Current Bid ($)")
 plt.title(
     "Sotheby's Lots: Estimated Value vs Current Bid"
 )
+
+plt.savefig("bid_vs_estimate.png", bbox_inches="tight")
 
 plt.show()
 

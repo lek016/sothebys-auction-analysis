@@ -19,7 +19,7 @@ Created on Mon Jul 27 20:05:43 2026
 import os
 import pandas as pd
 
-os.chdir("/Users/Lauren/Desktop/Folder")
+os.chdir("/Users/Lauren/Desktop/sothebys-auction-analysis")
 
 print(os.getcwd())
 

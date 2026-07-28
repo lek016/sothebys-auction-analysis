@@ -60,6 +60,7 @@ Dataset size:
 
 ## Project Structure
 
+```text
 sothebys-auction-analysis/
 │
 ├── sothebys_scraper.py
